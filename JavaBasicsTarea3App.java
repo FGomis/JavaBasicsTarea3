@@ -1,6 +1,6 @@
 
-public class JavaBasicsTarea3 {
-
+public class JavaBasicsTarea3App {
+	
 	public static void main(String[] args) {
 		
 		int X = 7;
